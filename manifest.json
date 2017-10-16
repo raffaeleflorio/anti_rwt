@@ -3,11 +3,6 @@
 
     "name": "anti_rwt",
     "version": "1.0",
-    "applications": {
-	"gecko": {
-	    "id": "anti_rwt@raffaeleflorio.github.io"
-	}
-    },
     
     "author": "Raffaele Florio",
     "homepage_url": "https://github.com/raffaeleflorio/anti_rwt",
